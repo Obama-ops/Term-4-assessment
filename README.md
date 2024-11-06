@@ -25,3 +25,4 @@ This project demonstrates a simple IoT device using a potentiometer and a buzzer
 
 ## References
 - [MicroPython Documentation](https://docs.micropython.org/)
+- ChatGPT: IoT Device Development Example Code, accessed November 2024.
