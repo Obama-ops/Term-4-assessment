@@ -11,8 +11,8 @@ This project demonstrates a simple IoT device using a potentiometer and a buzzer
 - **Breadboard and Jumper Wires**
 
 ## Connections
-1. **Potentiometer**: Connect the middle pin to GP26 (ADC0) on the Pico W.
-2. **Buzzer**: Connect the positive pin to GP15, and the negative pin to GND.
+1. **Potentiometer**: Connected to the middle pin to GP26 (ADC0) on the Pico W.
+2. **Buzzer**: Connected to the positive pin to GP15, and the negative pin to GND.
 
 ## Code Explanation
 - The potentiometer reads an analog value (0 - 65535) using ADC.
